@@ -1,2 +1,2 @@
 # vocero-luna
-Portafolio
+Portafolio para un creador de contenido, profesor y periodista.
