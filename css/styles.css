@@ -11009,7 +11009,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(106, 98, 213, 0.9);
+  background-color: rgba(146, 144, 176, 0.9);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -11019,7 +11019,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #6A62D5;
+  color: #9290B0;
   font-size: 2rem;
   padding: 1rem;
 }
