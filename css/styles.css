@@ -491,6 +491,7 @@ progress {
   font-size: 1.25rem;
   font-weight: 300;
   text-align: justify;
+  text-justify: inter-word
 }
 
 .display-1 {
